@@ -13,4 +13,5 @@ Algoritmo EstimarDigitalizacion
 	costoTotal=cantidadHojas*costoHoja
 	Escribir "Digitalizar el proceso",codigoProceso, " Cuesta ", costoTotal
 	Escribir "Finalizado"
+
 FinAlgoritmo
